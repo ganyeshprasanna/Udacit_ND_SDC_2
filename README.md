@@ -25,7 +25,7 @@ To meet specifications, the project will require submitting three files:
 [image1]: ./distibution.png "Distribution"
 [image2]: ./random.png "Random"
 [image3]: ./preprocess.png "Preprocess"
-[image8]: Custom/1.png "Stop"
+[image8]: (Custom/1.png =200x200)  "Stop"
 [image7]: Custom/2.jpg "Right of way at the next intersection"
 [image5]: Custom/3.jpg "No entry"
 [image4]: Custom/4.jpg "Yield"
@@ -134,7 +134,7 @@ The model was able to correctly guess 4 of the 5 traffic signs, which gives an a
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 
-For the second image, the model is sure that this is a yield sign (probability of 1), and the image does contain a yield sign. The top five soft max probabilities were
+For the first image, the model is sure that this is a yield sign (probability of 1), and the image does contain a yield sign. The top five soft max probabilities were
 
 | Probability           	|    Prediction 				| 
 |:-------------------------:|:-----------------------------:| 

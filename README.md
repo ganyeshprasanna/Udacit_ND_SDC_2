@@ -22,7 +22,7 @@ To meet specifications, the project will require submitting three files:
 
 
 [//]: # (Image References)
-[image1]: ./distibution.png "Distribution"
+[image1]: ./distribution.png "Distribution"
 [image2]: ./random.png "Random"
 [image3]: ./preprocess.png "Preprocess"
 [image8]: Custom_resized/1.png "Stop"
@@ -31,7 +31,6 @@ To meet specifications, the project will require submitting three files:
 [image4]: Custom_resized/4.jpg "Yield"
 [image6]: Custom_resized/5.png "go straight or right"
 
-<img src=Custom/1.png width="200",height="200">
 ---
 
 
@@ -39,6 +38,7 @@ To meet specifications, the project will require submitting three files:
 
 
 I used numpy and matplotlib libraries to explore the traffic signs data set:
+#### 1. Exploration with numpy.
 
 * The size of training set is 34799
 * The size of the validation set is 4410
@@ -106,6 +106,8 @@ My final model results were:
 * training set accuracy of 1
 * validation set accuracy of 0.9375
 * test set accuracy of 0.929
+ 
+ We can see that the model is overfitting the train data but it still performs decently on the test data. The accuracy on test data can be increased by regularization techniques (dropout, L2, etc.)
  
 ### Test a Model on New Images
 

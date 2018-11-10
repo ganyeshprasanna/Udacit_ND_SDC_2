@@ -25,11 +25,11 @@ To meet specifications, the project will require submitting three files:
 [image1]: ./distibution.png "Distribution"
 [image2]: ./random.png "Random"
 [image3]: ./preprocess.png "Preprocess"
-[image8]: Custom/1.png "Stop"
-[image7]: Custom/2.jpg "Right of way at the next intersection"
-[image5]: Custom/3.jpg "No entry"
-[image4]: Custom/4.jpg "Yield"
-[image6]: Custom/5.png "go straight or right"
+[image8]: Custom_resized/1.png "Stop"
+[image7]: Custom_resized/2.jpg "Right of way at the next intersection"
+[image5]: Custom_resized/3.jpg "No entry"
+[image4]: Custom_resized/4.jpg "Yield"
+[image6]: Custom_resized/5.png "go straight or right"
 
 <img src=Custom/1.png width="200",height="200">
 ---
